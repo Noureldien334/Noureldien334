@@ -13,7 +13,7 @@
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
 <img width="45" src="https://img.icons8.com/color/344/ubuntu--v1.png"/>
-<img width="45" src="https://img.icons8.com/fluency/344/node-js.png"/>
+<img width="45" src="https://img.icons8.com/color/344/nodejs.png"/>
 <img width="45" src="https://img.icons8.com/color/344/postgreesql.png"/>
 <img width="45" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
 
