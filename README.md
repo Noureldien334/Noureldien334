@@ -18,6 +18,8 @@
 <img width="45" src="https://img.icons8.com/color/344/postgreesql.png"/>
 <img width="45" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
 <img width="60" src="https://img.icons8.com/plasticine/452/bash.png"/>
+<img width="50" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png"/>
+  
 </div>
 
 <div align="left">
